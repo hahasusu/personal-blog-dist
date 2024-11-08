@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.BE4fazHS.js";const m=JSON.parse('{"title":"个人书签","description":"","frontmatter":{},"headers":[],"relativePath":"bookmarks.md","filePath":"bookmarks.md"}'),o={name:"bookmarks.md"},s=r("",7),n=[s];function h(i,l,c,_,d,p){return t(),e("div",null,n)}const b=a(o,[["render",h]]);export{m as __pageData,b as default};
